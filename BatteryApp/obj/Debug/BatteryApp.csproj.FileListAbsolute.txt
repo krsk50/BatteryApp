@@ -1,0 +1,9 @@
+c:\users\shenthilkumarkr\documents\visual studio 2015\Projects\BatteryApp\BatteryApp\bin\Debug\BatteryApp.exe.config
+c:\users\shenthilkumarkr\documents\visual studio 2015\Projects\BatteryApp\BatteryApp\bin\Debug\BatteryApp.exe
+c:\users\shenthilkumarkr\documents\visual studio 2015\Projects\BatteryApp\BatteryApp\bin\Debug\BatteryApp.pdb
+c:\users\shenthilkumarkr\documents\visual studio 2015\Projects\BatteryApp\BatteryApp\obj\Debug\BatteryApp.exe
+c:\users\shenthilkumarkr\documents\visual studio 2015\Projects\BatteryApp\BatteryApp\obj\Debug\BatteryApp.pdb
+C:\Users\SHENTHILKUMARKR\Documents\Visual Studio 2015\Projects\BatteryApp\BatteryApp\obj\Debug\BatteryApp.csproj.GenerateResource.Cache
+C:\Users\SHENTHILKUMARKR\Documents\Visual Studio 2015\Projects\BatteryApp\BatteryApp\obj\Debug\BatteryApp.Program.resources
+C:\Users\SHENTHILKUMARKR\Documents\Visual Studio 2015\Projects\BatteryApp\BatteryApp\obj\Debug\BatteryApp.PowerStatusBrowserForm.resources
+C:\Users\SHENTHILKUMARKR\Documents\Visual Studio 2015\Projects\BatteryApp\BatteryApp\obj\Debug\BatteryApp.Properties.Resources.resources
